@@ -1,35 +1,19 @@
-# 👋 Hey, I'm Abdo
+# hey, I'm Abdo 👋
 
-Just a guy who enjoys turning random ideas into code 🤝💻
+I build things for the web and genuinely enjoy the process of figuring out how stuff works under the hood — not just using it. Somewhere between "why does this even work" and "eh, I'll just fix it real quick" is basically where I live as a developer.
 
-I've been messing around with programming for a while now, and somewhere along the way I went from **"why does this work?"** to **"lemme fix it real quick"** 💀
+## about me
 
-## 🧠 A little about me
+I'm mainly a web dev, working across TypeScript, Node.js, Python, React, and Next.js. I'm always tinkering with something new, and honestly bugs are just part of the process at this point — you write code, it breaks, you fix it, repeat. That's the job.
 
-* 💻 I mainly build stuff for the web
-* 🧩 I like figuring out how things work instead of just using them
-* 🚀 Always learning, always trying something new
-* 🐛 Bugs are basically part of the workflow at this point
-* ❤️ Most importantly, I just enjoy coding
+## right now
 
-## 🔨 What I'm up to
+Building stuff, breaking stuff, fixing it again. Nothing groundbreaking to announce, just the usual grind of shipping side projects and learning as I go.
 
-Currently building, experimenting, breaking things, fixing them again...
-you know, the usual developer experience 🗿
+## reach out
 
-## ⚙️ Tech I use
-
-**TypeScript** · **Node.js** · **Python**
-**React** · **Next.js**
-
-...and probably a few more things whenever I feel like learning something new 👀
-
-## 📬 Wanna reach me?
-
-💬 **Discord:** `lfz_`
-
-🐙 **GitHub:** well... you're already here 😭
+- Discord: `lfz_`
+- GitHub: you're already here lol
 
 ---
-
-> *code → break → debug → repeat* 🔁💻
+*code → break → debug → repeat*
